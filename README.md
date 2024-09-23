@@ -9,4 +9,4 @@
 
 ## GitHub Stats
 
-<iframe src="https://your-username.github.io/your-repo/stats.html" style="width: 100%; height: 200px; border: none;"></iframe>
+<iframe src="https://Lemon_Juiced.github.io/Lemon_Juiced/stats.html" width="600" height="400"></iframe>
