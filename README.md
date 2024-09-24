@@ -11,13 +11,5 @@
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td align="center">
-      <img alt="Lemon-Juiced's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lemon-juiced&show_icons=true&theme=tokyonight&rank_icon=percentile"/>
-    </td>
-    <td align="center">
-      <img alt="Lemon-Juiced's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemon-juiced&layout=compact&langs_count=10&theme=tokyonight&hide=perl,shell,makefile"/>
-    </td>
-  </tr>
-</table>
+| ![Lemon-Juiced's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemon-juiced&show_icons=true&theme=tokyonight&rank_icon=percentile) | ![Lemon-Juiced's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemon-juiced&layout=compact&langs_count=10&theme=tokyonight&hide=perl,shell,makefile) |
+|:------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
