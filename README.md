@@ -1,15 +1,23 @@
-# The Lemon Guy
+# 🍋 Lemon-Juiced
+Tech enthusiast with a passion for code.
 
-- Avid high-level C/C++ and Java programmer.
-- Currently learning:
-  - D and Makefile.
-- Current Job: Systems Programmer. Works with:
-  - Go, Java, Makefile, Perl, Shell
-- Owns websites built in:
-  - HTML, CSS, JavaScript.
-- Works on GDScript for game development as a side hobby.
+## 🖥️ Languages & Tools I Enjoy
+Compiled: C, C++, D, Go  
+Scripting & Build Tools: Python, Ruby, Makefile  
+Web (Minimalist Approach): HTML (but not CSS or JavaScript)  
+
+## 🎓 Certifications
+Python  
+SAS  
+
+## 📌 About Me
+💼 Job: Systems Administration Programmer  
+🌍 Website: lemonjuice.dev  
+
+## 🎓 Education
+BS: Computer Science  
+MS: Information Technology  
 
 ## GitHub Stats
-
 | ![Lemon-Juiced's GitHub Stats](https://git-hub-readme-stats-omega.vercel.app/api?username=lemon-juiced&show_icons=true&theme=tokyonight&rank_icon=percentile) | ![Lemon-Juiced's Top Languages](https://git-hub-readme-stats-omega.vercel.app/api/top-langs/?username=lemon-juiced&layout=compact&langs_count=10&theme=tokyonight) |
 |:------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
