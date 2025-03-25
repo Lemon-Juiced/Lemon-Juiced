@@ -2,7 +2,7 @@
 Tech enthusiast with a passion for code.
 
 ## 🖥️ Languages & Tools I Enjoy
-Compiled: C, C++, D, Go, Java
+Compiled: C, C++, D, Go, Java  
 Scripting & Build Tools: Ruby, Makefile  
 Web (Minimalist Approach): HTML (but not CSS or JavaScript)  
 
