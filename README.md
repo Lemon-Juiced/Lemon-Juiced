@@ -17,7 +17,7 @@ MS: Information Technology
 ### 🎓 Certifications
 - Alarm.com Platform Certification (Issued by Alarm.com)  
 - Tier 1 SAS Academic Specialization in Business Intelligence & Analytics and Data Analytics (Issued by SAS)  
-- PowerBI Desktop (Issed by Maven Analytics LLC)  
+- PowerBI Desktop (Issued by Maven Analytics LLC)  
 - Python Foundations for Data Analytics (Issued by Maven Analytics)  
 
 ## GitHub Stats
