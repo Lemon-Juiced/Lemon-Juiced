@@ -15,7 +15,8 @@ BS: Computer Science
 MS: Information Technology  
 
 ### 🎓 Certifications
-- Alarm.com Platform Certification (Issued by Alarm.com)  
+- Alarm.com Platform Certification (Issued by Alarm.com)
+- Alarm.com Technician Certification (Issued by Alarm.com)
 - Tier 1 SAS Academic Specialization in Business Intelligence & Analytics and Data Analytics (Issued by SAS)  
 - PowerBI Desktop (Issued by Maven Analytics LLC)  
 - Python Foundations for Data Analytics (Issued by Maven Analytics)  
