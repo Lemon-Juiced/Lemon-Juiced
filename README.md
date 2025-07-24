@@ -8,7 +8,7 @@ Web (Minimalist Approach): HTML (but not CSS or JavaScript)
 
 ## 📌 About Me
 💼 Job: Systems Administration Programmer  
-🌍 Website: [lemonjuice.dev](https://lemonjuice.dev/)  
+🌍 Websites: [lemonjuice.dev](https://lemonjuice.dev/) and [scalarstudios.site](https://scalarstudios.site/)
 
 ## 🎓 Education
 BS: Computer Science  
